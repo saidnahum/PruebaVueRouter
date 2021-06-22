@@ -1,13 +1,13 @@
 <template>
-  <Titulo texto="Página About del sitio Web con Vue 3"/>
+    <Titulo texto="Titulo del Blog" />
 </template>
 
 <script>
 import Titulo from '../components/Titulo.vue'
 export default {
-  components: {
-    Titulo
-  }
+    components: {
+        Titulo
+    }
 }
 </script>
 
